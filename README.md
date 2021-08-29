@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @divij5
 - 👀 I’m interested in python
-- 🌱 I’m currently learning MlOPS
+- 🌱 I’m currently learning MLOPS
 - 💞️ I’m looking to collaborate on Data Science Projects
 - 📫 How to reach me divijbajaj25@gmail.com
 
